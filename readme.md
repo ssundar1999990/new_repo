@@ -1,3 +1,5 @@
-## this is my new repo
+## this new repo
 
-Here is the description
+Here is my description
+
+And some other stuff
